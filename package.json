@@ -1,0 +1,16 @@
+{
+  "name": "@rndm/babel-node-modules",
+  "version": "0.1.0",
+  "description": "RNDM Implementation of 'babel-node-modules' for use with Babel 7",
+  "author": "RNDM",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "homepage": "https://github.com/rndm-com/rndm-babel-node-modules#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rndm-com/rndm-babel-node-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rndm-com/rndm-babel-node-modules/issues"
+  }
+}
